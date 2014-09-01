@@ -6,7 +6,8 @@
 	<scm>
 		<connection>scm:git:git://github.com/natalieshi/hw0-qiqis.git</connection>
 		<developerConnection>scm:git:git://github.com/natalieshi/hw0-qiqis.git</developerConnection>
-	</scm>
+	  <tag>hw0-qiqis-0.0.1</tag>
+  </scm>
 	<repositories>
 		<repository>
 			<id>deployment</id>
